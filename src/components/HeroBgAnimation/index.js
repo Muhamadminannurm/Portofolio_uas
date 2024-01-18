@@ -1,5 +1,5 @@
-import React from 'react';
-import { Div } from './HeroBgAnimationStyle';
+import React from "react";
+import { Div } from "./HeroBgAnimationStyle";
 const HeroBgAnimation = () => (
   <Div>
     <svg
@@ -33,7 +33,7 @@ const HeroBgAnimation = () => (
         transform="translate(-295.027 -193.118)"
         rx="1.07306"
         ry="1.07433"
-        fill="#945DD6"
+        fill="#1ebaba"
       >
         <animateMotion dur="10s" repeatCount="indefinite" rotate="auto">
           <mpath xlinkHref="#path_2" />
